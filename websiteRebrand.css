@@ -1,0 +1,16 @@
+#header {
+    text-align: center;
+    background-color: white;
+   
+}
+
+body {
+    background-color: black;
+}
+
+.panel-body{
+    height: 1100px;
+    position: fixed ;
+}
+
+
